@@ -1,0 +1,17 @@
+{
+  "title": "Touch Wizards",
+  "img_path": "https://raw.githubusercontent.com/khalilacheche/TUNIROBOTS/project-metadata/cover.jpeg",
+  "description": "A set of 2 robot for the TUNIROBOTS competition.",
+  "tags": [
+    "Robotics"
+  ],
+  "langs": [
+    "C/C++"
+  ],
+  "link": "https://youtu.be/jkZuA38Y4Dk",
+  "frameworks": [
+    "Arduino",
+    "Fritzing"
+  ],
+  "date": "2017-04"
+}
